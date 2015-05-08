@@ -1,0 +1,22 @@
+{
+  "name": "sequelize-neurosky",
+  "version": "0.0.2",
+  "description": "A Sequelize model for storing readings from the Neurosky MindWave headset",
+  "main": "sequelize-neurosky.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/indra-net/sequelize-neurosky"
+  },
+  "author": "elsehow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indra-net/sequelize-neurosky/issues"
+  },
+  "homepage": "https://github.com/indra-net/sequelize-neurosky",
+  "dependencies": {
+    "sequelize": "^2.0.6"
+  }
+}
